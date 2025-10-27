@@ -1,5 +1,5 @@
 ## Overview
-<div style="  align-items: center;">
+<div style="align-items: center;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhselfs&show_icons=true&theme=dark&rank_icon=github#gh-dark-mode-only)
 
