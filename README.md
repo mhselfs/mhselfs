@@ -1,11 +1,10 @@
-# 💫 About Me:
-Between Nerd & Geek 
+## About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhselfs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhmiripoor@gmail.com) 
+Hello! I'm Mohammad Hossein, a highly motivated.  I’m passionate about creating clean, user-friendly web experiences using modern technologies. This repository serves as a central location to showcase my projects, skills, and learning journey during my internship.
 
-# Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## Skills & Technologies
 
-
-
+* **Languages:** JavaScript (ES6+), HTML5, CSS3
+* **Frameworks/Libraries:** React, Tailwind CSS,
+* **Tools:** Git, GitHub, VS Code, npm 
+* **Concepts:** Responsive Design, Accessibility (WCAG),  RESTful APIs, Version Control
