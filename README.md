@@ -30,15 +30,3 @@
 </ul>
 
 <br>
-
-<h2 style="color: #61dafb;">Featured Projects</h2>
-<details style="padding: 10px; background: #161b22; border-radius: 8px; border: 1px solid #30363d;">
-  <summary style="cursor: pointer; font-weight: bold; outline: none;">Click to view my technical portfolio</summary>
-  <ul style="padding-top: 10px;">
-    <li><b>MHselfsPortfilo:</b> Modern Portfolio.</li>
-    <li><b>MovieCart:</b> Dynamic Movie Interface.</li>
-    <li><b>brain-light:</b> TypeScript-based habit tracker.</li>
-  </ul>
-</details>
-
-<br>
